@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudheer1509
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning MERN stack web development
-- 💞️ I’m looking to collaborate on learning MERN stack web development
+- 🌱 I’m MERN Stack developer
+- 💞️ I’m looking to collaborate on working MERN stack web development and learning Java
 - 📫 Reach me at sudheervelishala99@gmail.com, +91 8106401260
 
 <!---
